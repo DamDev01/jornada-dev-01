@@ -138,7 +138,35 @@ body{
     background-color: #085a66;
     height: 70px;
     border: 5px;
-    
-
-    
 }
+    
+.caixaEentrada {
+    width: calc(100%);
+}
+.nomeDoProduto{
+    color: #09725b;
+    font-size: 20px;
+    margin-top: -0%;
+    margin-left: 114%;
+    width: 150%;
+    height: 150%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.botaoCadastro {
+    position: absolute;
+    margin-left: 150%;
+    left: -20%;
+    bottom: 10%;
+}
+.formulario{
+    position: relative;
+    width: 100%;
+    height: 100px;
+    left: 450px;
+    margin-top: -100px;
+    margin-left: -100px;
+    top: 50px;
+    font-size: 12px;
+}
+
+
